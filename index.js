@@ -41,7 +41,7 @@ consentForm.addEventListener("submit", function(event) {
             <h2>Thanks <span class="modal-display-name">${name}</span>, you sucker! </h2>
             <p>We just sold the rights to your eternal soul.</p>
             <div class="idiot-gif">
-                <img src="images/pirate.gif">
+                <img src="images/pirate.gif" alt="A man in pirate attire, wearing a hat and laughing">
             </div>
         `;
         modalCloseBtn.disabled = false;
