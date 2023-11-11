@@ -25,7 +25,7 @@ consentForm.addEventListener("submit", function(event) {
     
     modalText.innerHTML = `
         <div class="modal-inner-loading">
-            <img src="images/loading.svg" class="loading">
+            <img src="images/loading.svg" alt="Loading animation of moving dots" class="loading">
             <p id="upload-text">Uploading your data to the dark web...</p>
         </div>
     `; 
